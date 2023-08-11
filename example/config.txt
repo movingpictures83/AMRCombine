@@ -1,0 +1,2 @@
+Prefix plugins/AMRCombine/example/
+Plugin AMRCombine inputfile parameters.amrcombine.txt outputfile amr_counts_merged.csv

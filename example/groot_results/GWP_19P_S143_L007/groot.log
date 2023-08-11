@@ -1,0 +1,289 @@
+2022/09/05 15:15:32 i am groot (version 1.1.2)
+2022/09/05 15:15:32 starting the sketch subcommand
+2022/09/05 15:15:32 checking parameters...
+2022/09/05 15:15:32 	minimum k-mer coverage: 1
+2022/09/05 15:15:32 	processors: 16
+2022/09/05 15:15:32 	input file: /biorg/data/GulfWar/GWP_19P_S143_L007_R1_001.fastq
+2022/09/05 15:15:32 	input file: /biorg/data/GulfWar/GWP_19P_S143_L007_R2_001.fastq
+2022/09/05 15:15:32 loading the index information...
+2022/09/05 15:15:32 i am groot (version 1.1.2)
+2022/09/05 15:15:32 starting the report subcommand
+2022/09/05 15:15:32 checking parameters...
+2022/09/05 15:15:32 	BAM file: using STDIN
+2022/09/05 15:15:32 	coverage cutoff: 0.80
+2022/09/05 15:15:32 	processors: 1
+2022/09/05 15:15:33 	k-mer size: 31
+2022/09/05 15:15:33 	sketch size: 21
+2022/09/05 15:15:33 	window size used in indexing: 150
+2022/09/05 15:15:33 loading the graphs...
+2022/09/05 15:15:33 	number of variation graphs: 1197
+2022/09/05 15:15:33 rebuilding the LSH Ensemble...
+2022/09/05 15:15:37 	containment threshold: 0.99
+2022/09/05 15:15:37 initialising alignment pipeline...
+2022/09/05 15:15:37 	initialising the processes
+2022/09/05 15:15:37 	connecting data streams
+2022/09/05 15:15:37 	number of processes added to the alignment pipeline: 5
+2022/09/05 15:15:37 now streaming reads...
+2022/09/05 15:19:21 i am groot (version 1.1.2)
+2022/09/05 15:19:21 starting the sketch subcommand
+2022/09/05 15:19:21 checking parameters...
+2022/09/05 15:19:21 i am groot (version 1.1.2)
+2022/09/05 15:19:21 starting the report subcommand
+2022/09/05 15:19:21 checking parameters...
+2022/09/05 15:19:21 	BAM file: using STDIN
+2022/09/05 15:19:21 	minimum k-mer coverage: 1
+2022/09/05 15:19:21 	coverage cutoff: 0.80
+2022/09/05 15:19:21 	processors: 16
+2022/09/05 15:19:21 	processors: 1
+2022/09/05 15:19:21 	input file: /biorg/data/GulfWar/GWP_19P_S143_L007_R1_001.fastq
+2022/09/05 15:19:21 	input file: /biorg/data/GulfWar/GWP_19P_S143_L007_R2_001.fastq
+2022/09/05 15:19:21 loading the index information...
+2022/09/05 15:19:22 	k-mer size: 31
+2022/09/05 15:19:22 	sketch size: 21
+2022/09/05 15:19:22 	window size used in indexing: 150
+2022/09/05 15:19:22 loading the graphs...
+2022/09/05 15:19:22 	number of variation graphs: 1197
+2022/09/05 15:19:22 rebuilding the LSH Ensemble...
+2022/09/05 15:19:25 	containment threshold: 0.99
+2022/09/05 15:19:25 initialising alignment pipeline...
+2022/09/05 15:19:25 	initialising the processes
+2022/09/05 15:19:25 	connecting data streams
+2022/09/05 15:19:25 	number of processes added to the alignment pipeline: 5
+2022/09/05 15:19:25 now streaming reads...
+2022/09/05 15:19:30 error reading bam: bam: reference id out of range
+2023/06/25 19:46:59 i am groot (version 1.1.2)
+2023/06/25 19:46:59 starting the sketch subcommand
+2023/06/25 19:46:59 checking parameters...
+2023/06/25 19:46:59 terminated
+
+ERROR --> file does not exist: /biorg/data/GulfWar/GWP_19P_S143_L007_R1_001.fastq
+
+2023/06/25 19:47:36 i am groot (version 1.1.2)
+2023/06/25 19:47:36 starting the sketch subcommand
+2023/06/25 19:47:36 checking parameters...
+2023/06/25 19:47:36 terminated
+
+ERROR --> file does not exist: /biorg/data/GulfWar/GWP_19P_S143_L007_R1_001.fastq
+
+2023/06/25 19:48:12 i am groot (version 1.1.2)
+2023/06/25 19:48:12 starting the report subcommand
+2023/06/25 19:48:12 checking parameters...
+2023/06/25 19:48:12 	BAM file: using STDIN
+2023/06/25 19:48:12 	coverage cutoff: 0.80
+2023/06/25 19:48:12 	processors: 1
+2023/06/25 19:48:12 i am groot (version 1.1.2)
+2023/06/25 19:48:12 starting the sketch subcommand
+2023/06/25 19:48:12 checking parameters...
+2023/06/25 19:48:12 terminated
+
+ERROR --> file does not exist: /biorg/data/GulfWar/GWP_19P_S143_L007_R1_001.fastq
+
+2023/06/25 19:48:12 could not read BAM file: "EOF"
+2023/07/10 08:43:47 i am groot (version 1.1.2)
+2023/07/10 08:43:47 starting the sketch subcommand
+2023/07/10 08:43:47 checking parameters...
+2023/07/10 08:43:47 	minimum k-mer coverage: 1
+2023/07/10 08:43:47 	processors: 16
+2023/07/10 08:43:47 	input file: /biorg/data/GulfWar/GWP_19P_S143_L007_R1_001.fastq
+2023/07/10 08:43:47 	input file: /biorg/data/GulfWar/GWP_19P_S143_L007_R2_001.fastq
+2023/07/10 08:43:47 loading the index information...
+2023/07/10 08:43:47 i am groot (version 1.1.2)
+2023/07/10 08:43:47 starting the report subcommand
+2023/07/10 08:43:47 checking parameters...
+2023/07/10 08:43:47 	BAM file: using STDIN
+2023/07/10 08:43:47 	coverage cutoff: 0.80
+2023/07/10 08:43:47 	processors: 1
+2023/07/10 08:43:48 	k-mer size: 31
+2023/07/10 08:43:48 	sketch size: 21
+2023/07/10 08:43:48 	window size used in indexing: 150
+2023/07/10 08:43:48 loading the graphs...
+2023/07/10 08:43:48 	number of variation graphs: 1197
+2023/07/10 08:43:48 rebuilding the LSH Ensemble...
+2023/07/10 08:43:52 	containment threshold: 0.99
+2023/07/10 08:43:52 initialising alignment pipeline...
+2023/07/10 08:43:52 	initialising the processes
+2023/07/10 08:43:52 	connecting data streams
+2023/07/10 08:43:52 	number of processes added to the alignment pipeline: 5
+2023/07/10 08:43:52 now streaming reads...
+2023/07/10 08:43:54 error reading bam: bam: reference id out of range
+2023/07/10 17:09:05 i am groot (version 1.1.2)
+2023/07/10 17:09:05 starting the sketch subcommand
+2023/07/10 17:09:05 checking parameters...
+2023/07/10 17:09:05 i am groot (version 1.1.2)
+2023/07/10 17:09:05 	minimum k-mer coverage: 1
+2023/07/10 17:09:05 starting the report subcommand
+2023/07/10 17:09:05 	processors: 16
+2023/07/10 17:09:05 checking parameters...
+2023/07/10 17:09:05 	input file: /biorg/data/GulfWar/GWP_19P_S143_L007_R1_001.fastq
+2023/07/10 17:09:05 	input file: /biorg/data/GulfWar/GWP_19P_S143_L007_R2_001.fastq
+2023/07/10 17:09:05 	BAM file: using STDIN
+2023/07/10 17:09:05 loading the index information...
+2023/07/10 17:09:05 	coverage cutoff: 0.80
+2023/07/10 17:09:05 	processors: 1
+2023/07/10 17:09:06 	k-mer size: 31
+2023/07/10 17:09:06 	sketch size: 21
+2023/07/10 17:09:06 	window size used in indexing: 150
+2023/07/10 17:09:06 loading the graphs...
+2023/07/10 17:09:06 	number of variation graphs: 1197
+2023/07/10 17:09:06 rebuilding the LSH Ensemble...
+2023/07/10 17:09:10 	containment threshold: 0.99
+2023/07/10 17:09:10 initialising alignment pipeline...
+2023/07/10 17:09:10 	initialising the processes
+2023/07/10 17:09:10 	connecting data streams
+2023/07/10 17:09:10 	number of processes added to the alignment pipeline: 5
+2023/07/10 17:09:10 now streaming reads...
+2023/07/10 17:09:11 error reading bam: bam: reference id out of range
+2023/07/10 17:16:18 i am groot (version 1.1.2)
+2023/07/10 17:16:18 starting the report subcommand
+2023/07/10 17:16:18 checking parameters...
+2023/07/10 17:16:18 i am groot (version 1.1.2)
+2023/07/10 17:16:18 	BAM file: using STDIN
+2023/07/10 17:16:18 starting the sketch subcommand
+2023/07/10 17:16:18 	coverage cutoff: 0.10
+2023/07/10 17:16:18 checking parameters...
+2023/07/10 17:16:18 	processors: 1
+2023/07/10 17:16:18 	minimum k-mer coverage: 1
+2023/07/10 17:16:18 	processors: 16
+2023/07/10 17:16:18 	input file: /biorg/data/GulfWar/GWP_19P_S143_L007_R1_001.fastq
+2023/07/10 17:16:18 	input file: /biorg/data/GulfWar/GWP_19P_S143_L007_R2_001.fastq
+2023/07/10 17:16:18 loading the index information...
+2023/07/10 17:16:20 	k-mer size: 31
+2023/07/10 17:16:20 	sketch size: 21
+2023/07/10 17:16:20 	window size used in indexing: 150
+2023/07/10 17:16:20 loading the graphs...
+2023/07/10 17:16:20 	number of variation graphs: 1197
+2023/07/10 17:16:20 rebuilding the LSH Ensemble...
+2023/07/10 17:16:24 	containment threshold: 0.99
+2023/07/10 17:16:24 initialising alignment pipeline...
+2023/07/10 17:16:24 	initialising the processes
+2023/07/10 17:16:24 	connecting data streams
+2023/07/10 17:16:24 	number of processes added to the alignment pipeline: 5
+2023/07/10 17:16:24 now streaming reads...
+2023/07/10 17:16:25 error reading bam: bam: reference id out of range
+2023/08/10 16:13:06 i am groot (version 1.1.2)
+2023/08/10 16:13:06 starting the sketch subcommand
+2023/08/10 16:13:06 checking parameters...
+2023/08/10 16:13:06 i am groot (version 1.1.2)
+2023/08/10 16:13:06 starting the report subcommand
+2023/08/10 16:13:06 checking parameters...
+2023/08/10 16:13:06 	BAM file: using STDIN
+2023/08/10 16:13:06 	coverage cutoff: 0.10
+2023/08/10 16:13:06 	processors: 1
+2023/08/10 16:13:06 	minimum k-mer coverage: 1
+2023/08/10 16:13:06 	processors: 16
+2023/08/10 16:13:06 	input file: /biorg/data/GulfWar/GWP_19P_S143_L007_R1_001.fastq
+2023/08/10 16:13:06 	input file: /biorg/data/GulfWar/GWP_19P_S143_L007_R2_001.fastq
+2023/08/10 16:13:06 loading the index information...
+2023/08/10 16:13:07 	k-mer size: 31
+2023/08/10 16:13:07 	sketch size: 21
+2023/08/10 16:13:07 	window size used in indexing: 150
+2023/08/10 16:13:07 loading the graphs...
+2023/08/10 16:13:07 	number of variation graphs: 2301
+2023/08/10 16:13:07 rebuilding the LSH Ensemble...
+2023/08/10 16:13:15 	containment threshold: 0.99
+2023/08/10 16:13:15 initialising alignment pipeline...
+2023/08/10 16:13:15 	initialising the processes
+2023/08/10 16:13:15 	connecting data streams
+2023/08/10 16:13:15 	number of processes added to the alignment pipeline: 5
+2023/08/10 16:13:15 now streaming reads...
+2023/08/10 16:15:44 	number of reads received from input: 19909146
+2023/08/10 16:15:44 	mean read length: 151
+2023/08/10 16:15:44 	number of reads sketched: 19909146
+2023/08/10 16:15:44 	total number of unmapped reads: 19907491
+2023/08/10 16:15:44 	total number of mapped reads: 1655
+2023/08/10 16:15:44 		mapped to one graph: 1530
+2023/08/10 16:15:44 		mapped to multiple graphs: 125
+2023/08/10 16:15:44 	total number of exact alignments: 6599
+2023/08/10 16:15:44 processing graphs...
+2023/08/10 16:15:44 	total number of k-mers projected onto graphs: 72963
+2023/08/10 16:15:44 	graph 222 has 1 remaining paths after weighting and pruning
+2023/08/10 16:15:44 	- [*MEG_3988|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation]
+2023/08/10 16:15:44 	graph 2298 has 1 remaining paths after weighting and pruning
+2023/08/10 16:15:44 	- [*MEG_3597|Drugs|Multi-drug_resistance|Multi-drug_ABC_efflux_pumps|LMRD]
+2023/08/10 16:15:44 	graph 1439 has 1 remaining paths after weighting and pruning
+2023/08/10 16:15:44 	- [*MEG_988|Drugs|Aminoglycosides|Aminoglycoside_O-nucleotidyltransferases|ANT6]
+2023/08/10 16:15:44 	graph 972 has 4 remaining paths after weighting and pruning
+2023/08/10 16:15:44 	- [*MEG_6991|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TET40]
+2023/08/10 16:15:44 	- [MEG_6992|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TET40]
+2023/08/10 16:15:44 	- [MEG_6993|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TET40]
+2023/08/10 16:15:44 	- [MEG_6994|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TET40]
+2023/08/10 16:15:44 	graph 1038 has 17 remaining paths after weighting and pruning
+2023/08/10 16:15:44 	- [MEG_7155|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETO]
+2023/08/10 16:15:44 	- [*MEG_7149|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETO]
+2023/08/10 16:15:44 	- [MEG_7157|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETO]
+2023/08/10 16:15:44 	- [MEG_7152|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETO]
+2023/08/10 16:15:44 	- [MEG_7160|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETO]
+2023/08/10 16:15:44 	- [MEG_7153|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETO]
+2023/08/10 16:15:44 	- [MEG_7158|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETO]
+2023/08/10 16:15:44 	- [MEG_7159|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETO]
+2023/08/10 16:15:44 	- [MEG_7164|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETO]
+2023/08/10 16:15:44 	- [MEG_7162|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETO]
+2023/08/10 16:15:44 	- [MEG_7165|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETO]
+2023/08/10 16:15:44 	- [MEG_7150|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETO]
+2023/08/10 16:15:44 	- [MEG_7151|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETO]
+2023/08/10 16:15:44 	- [MEG_7156|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETO]
+2023/08/10 16:15:44 	- [MEG_7166|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETO]
+2023/08/10 16:15:44 	- [MEG_7154|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETO]
+2023/08/10 16:15:44 	- [MEG_7161|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETO]
+2023/08/10 16:15:44 	graph 228 has 1 remaining paths after weighting and pruning
+2023/08/10 16:15:44 	- [*MEG_3992|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation]
+2023/08/10 16:15:44 	total number of graphs pruned: 2301
+2023/08/10 16:15:44 	total number of graphs remaining: 6
+2023/08/10 16:15:44 	total number of possible haplotypes found: 25
+2023/08/10 16:15:44 saving graphs...
+2023/08/10 16:15:44 finished in 2m37.481454158s
+2023/08/10 16:15:44 finished
+2023/08/10 21:29:46 i am groot (version 1.1.2)
+2023/08/10 21:29:46 starting the sketch subcommand
+2023/08/10 21:29:46 checking parameters...
+2023/08/10 21:29:46 i am groot (version 1.1.2)
+2023/08/10 21:29:46 starting the report subcommand
+2023/08/10 21:29:46 checking parameters...
+2023/08/10 21:29:46 	BAM file: using STDIN
+2023/08/10 21:29:46 	coverage cutoff: 0.10
+2023/08/10 21:29:46 	processors: 1
+2023/08/10 21:29:46 	minimum k-mer coverage: 1
+2023/08/10 21:29:46 	processors: 16
+2023/08/10 21:29:46 	input file: /biorg/data/GulfWar/GWP_19P_S143_L007_R1_001.fastq
+2023/08/10 21:29:46 	input file: /biorg/data/GulfWar/GWP_19P_S143_L007_R2_001.fastq
+2023/08/10 21:29:46 loading the index information...
+2023/08/10 21:29:47 	k-mer size: 31
+2023/08/10 21:29:47 	sketch size: 21
+2023/08/10 21:29:47 	window size used in indexing: 150
+2023/08/10 21:29:47 loading the graphs...
+2023/08/10 21:29:47 	number of variation graphs: 2301
+2023/08/10 21:29:47 rebuilding the LSH Ensemble...
+2023/08/10 21:29:55 	containment threshold: 0.99
+2023/08/10 21:29:55 initialising alignment pipeline...
+2023/08/10 21:29:55 	initialising the processes
+2023/08/10 21:29:55 	connecting data streams
+2023/08/10 21:29:55 	number of processes added to the alignment pipeline: 5
+2023/08/10 21:29:55 now streaming reads...
+2023/08/10 21:29:59 error reading bam: bam: reference id out of range
+2023/08/10 22:33:18 i am groot (version 1.1.2)
+2023/08/10 22:33:18 i am groot (version 1.1.2)
+2023/08/10 22:33:18 starting the report subcommand
+2023/08/10 22:33:18 starting the sketch subcommand
+2023/08/10 22:33:18 checking parameters...
+2023/08/10 22:33:18 checking parameters...
+2023/08/10 22:33:18 	BAM file: using STDIN
+2023/08/10 22:33:18 	coverage cutoff: 0.10
+2023/08/10 22:33:18 	processors: 1
+2023/08/10 22:33:18 	minimum k-mer coverage: 1
+2023/08/10 22:33:18 	processors: 16
+2023/08/10 22:33:18 	input file: /biorg/data/GulfWar/GWP_19P_S143_L007_R1_001.fastq
+2023/08/10 22:33:18 	input file: /biorg/data/GulfWar/GWP_19P_S143_L007_R2_001.fastq
+2023/08/10 22:33:18 loading the index information...
+2023/08/10 22:33:19 	k-mer size: 31
+2023/08/10 22:33:19 	sketch size: 21
+2023/08/10 22:33:19 	window size used in indexing: 150
+2023/08/10 22:33:19 loading the graphs...
+2023/08/10 22:33:19 	number of variation graphs: 2301
+2023/08/10 22:33:19 rebuilding the LSH Ensemble...
+2023/08/10 22:33:27 	containment threshold: 0.99
+2023/08/10 22:33:27 initialising alignment pipeline...
+2023/08/10 22:33:27 	initialising the processes
+2023/08/10 22:33:27 	connecting data streams
+2023/08/10 22:33:27 	number of processes added to the alignment pipeline: 5
+2023/08/10 22:33:27 now streaming reads...
+2023/08/10 22:33:28 error reading bam: bam: reference id out of range

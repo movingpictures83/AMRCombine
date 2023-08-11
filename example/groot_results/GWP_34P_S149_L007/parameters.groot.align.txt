@@ -1,0 +1,6 @@
+grootexecutable	~vsteb002/miniconda3/envs/groot/bin/groot
+operation	align
+index	../../megares2_index
+samplesdir	/biorg/data/GulfWar/
+sample	GWP_34P_S149_L007
+threads	16

@@ -1,0 +1,280 @@
+2022/09/05 15:10:36 i am groot (version 1.1.2)
+2022/09/05 15:10:36 starting the sketch subcommand
+2022/09/05 15:10:36 checking parameters...
+2022/09/05 15:10:36 	minimum k-mer coverage: 1
+2022/09/05 15:10:36 	processors: 16
+2022/09/05 15:10:36 	input file: /biorg/data/GulfWar/GWP_11P_S141_L007_R1_001.fastq
+2022/09/05 15:10:36 	input file: /biorg/data/GulfWar/GWP_11P_S141_L007_R2_001.fastq
+2022/09/05 15:10:36 loading the index information...
+2022/09/05 15:10:36 i am groot (version 1.1.2)
+2022/09/05 15:10:36 starting the report subcommand
+2022/09/05 15:10:36 checking parameters...
+2022/09/05 15:10:36 	BAM file: using STDIN
+2022/09/05 15:10:36 	coverage cutoff: 0.80
+2022/09/05 15:10:36 	processors: 1
+2022/09/05 15:10:36 	k-mer size: 31
+2022/09/05 15:10:36 	sketch size: 21
+2022/09/05 15:10:36 	window size used in indexing: 150
+2022/09/05 15:10:36 loading the graphs...
+2022/09/05 15:10:36 	number of variation graphs: 1197
+2022/09/05 15:10:36 rebuilding the LSH Ensemble...
+2022/09/05 15:10:40 	containment threshold: 0.99
+2022/09/05 15:10:40 initialising alignment pipeline...
+2022/09/05 15:10:40 	initialising the processes
+2022/09/05 15:10:40 	connecting data streams
+2022/09/05 15:10:40 	number of processes added to the alignment pipeline: 5
+2022/09/05 15:10:40 now streaming reads...
+2022/09/05 15:10:40 read ID in fastq file does not begin with @: >MG01HX07:636:H5J7JCCX2:7:1101:2869:1959 1:N:0:GGACTCCT+AGAGGATA
+2022/09/05 15:10:40 could not read BAM file: "EOF"
+2022/09/05 15:14:52 i am groot (version 1.1.2)
+2022/09/05 15:14:52 starting the sketch subcommand
+2022/09/05 15:14:52 checking parameters...
+2022/09/05 15:14:52 	minimum k-mer coverage: 1
+2022/09/05 15:14:52 	processors: 16
+2022/09/05 15:14:52 	input file: /biorg/data/GulfWar/GWP_11P_S141_L007_R1_001.fastq
+2022/09/05 15:14:52 	input file: /biorg/data/GulfWar/GWP_11P_S141_L007_R2_001.fastq
+2022/09/05 15:14:52 loading the index information...
+2022/09/05 15:14:52 i am groot (version 1.1.2)
+2022/09/05 15:14:52 starting the report subcommand
+2022/09/05 15:14:52 checking parameters...
+2022/09/05 15:14:52 	BAM file: using STDIN
+2022/09/05 15:14:52 	coverage cutoff: 0.80
+2022/09/05 15:14:52 	processors: 1
+2022/09/05 15:14:52 	k-mer size: 31
+2022/09/05 15:14:52 	sketch size: 21
+2022/09/05 15:14:52 	window size used in indexing: 150
+2022/09/05 15:14:52 loading the graphs...
+2022/09/05 15:14:52 	number of variation graphs: 1197
+2022/09/05 15:14:52 rebuilding the LSH Ensemble...
+2022/09/05 15:14:56 	containment threshold: 0.99
+2022/09/05 15:14:56 initialising alignment pipeline...
+2022/09/05 15:14:56 	initialising the processes
+2022/09/05 15:14:56 	connecting data streams
+2022/09/05 15:14:56 	number of processes added to the alignment pipeline: 5
+2022/09/05 15:14:56 now streaming reads...
+2022/09/05 15:14:56 read ID in fastq file does not begin with @: >MG01HX07:636:H5J7JCCX2:7:1101:2869:1959 1:N:0:GGACTCCT+AGAGGATA
+2022/09/05 15:14:56 could not read BAM file: "EOF"
+2022/09/05 15:18:41 i am groot (version 1.1.2)
+2022/09/05 15:18:41 starting the sketch subcommand
+2022/09/05 15:18:41 checking parameters...
+2022/09/05 15:18:41 i am groot (version 1.1.2)
+2022/09/05 15:18:41 	minimum k-mer coverage: 1
+2022/09/05 15:18:41 starting the report subcommand
+2022/09/05 15:18:41 	processors: 16
+2022/09/05 15:18:41 checking parameters...
+2022/09/05 15:18:41 	input file: /biorg/data/GulfWar/GWP_11P_S141_L007_R1_001.fastq
+2022/09/05 15:18:41 	input file: /biorg/data/GulfWar/GWP_11P_S141_L007_R2_001.fastq
+2022/09/05 15:18:41 	BAM file: using STDIN
+2022/09/05 15:18:41 loading the index information...
+2022/09/05 15:18:41 	coverage cutoff: 0.80
+2022/09/05 15:18:41 	processors: 1
+2022/09/05 15:18:41 	k-mer size: 31
+2022/09/05 15:18:41 	sketch size: 21
+2022/09/05 15:18:41 	window size used in indexing: 150
+2022/09/05 15:18:41 loading the graphs...
+2022/09/05 15:18:41 	number of variation graphs: 1197
+2022/09/05 15:18:41 rebuilding the LSH Ensemble...
+2022/09/05 15:18:45 	containment threshold: 0.99
+2022/09/05 15:18:45 initialising alignment pipeline...
+2022/09/05 15:18:45 	initialising the processes
+2022/09/05 15:18:45 	connecting data streams
+2022/09/05 15:18:45 	number of processes added to the alignment pipeline: 5
+2022/09/05 15:18:45 now streaming reads...
+2022/09/05 15:18:45 read ID in fastq file does not begin with @: >MG01HX07:636:H5J7JCCX2:7:1101:2869:1959 1:N:0:GGACTCCT+AGAGGATA
+2022/09/05 15:18:45 could not read BAM file: "EOF"
+2023/06/25 19:46:59 i am groot (version 1.1.2)
+2023/06/25 19:46:59 starting the sketch subcommand
+2023/06/25 19:46:59 checking parameters...
+2023/06/25 19:46:59 terminated
+
+ERROR --> file does not exist: /biorg/data/GulfWar/GWP_11P_S141_L007_R1_001.fastq
+
+2023/06/25 19:47:36 i am groot (version 1.1.2)
+2023/06/25 19:47:36 starting the sketch subcommand
+2023/06/25 19:47:36 checking parameters...
+2023/06/25 19:47:36 terminated
+
+ERROR --> file does not exist: /biorg/data/GulfWar/GWP_11P_S141_L007_R1_001.fastq
+
+2023/06/25 19:48:12 i am groot (version 1.1.2)
+2023/06/25 19:48:12 starting the sketch subcommand
+2023/06/25 19:48:12 checking parameters...
+2023/06/25 19:48:12 terminated
+
+ERROR --> file does not exist: /biorg/data/GulfWar/GWP_11P_S141_L007_R1_001.fastq
+
+2023/06/25 19:48:12 i am groot (version 1.1.2)
+2023/06/25 19:48:12 starting the report subcommand
+2023/06/25 19:48:12 checking parameters...
+2023/06/25 19:48:12 	BAM file: using STDIN
+2023/06/25 19:48:12 	coverage cutoff: 0.80
+2023/06/25 19:48:12 	processors: 1
+2023/06/25 19:48:12 could not read BAM file: "EOF"
+2023/07/10 08:43:14 i am groot (version 1.1.2)
+2023/07/10 08:43:14 starting the report subcommand
+2023/07/10 08:43:14 i am groot (version 1.1.2)
+2023/07/10 08:43:14 checking parameters...
+2023/07/10 08:43:14 starting the sketch subcommand
+2023/07/10 08:43:14 checking parameters...
+2023/07/10 08:43:14 	BAM file: using STDIN
+2023/07/10 08:43:14 	coverage cutoff: 0.80
+2023/07/10 08:43:14 	processors: 1
+2023/07/10 08:43:14 	minimum k-mer coverage: 1
+2023/07/10 08:43:14 	processors: 16
+2023/07/10 08:43:14 	input file: /biorg/data/GulfWar/GWP_11P_S141_L007_R1_001.fastq
+2023/07/10 08:43:14 	input file: /biorg/data/GulfWar/GWP_11P_S141_L007_R2_001.fastq
+2023/07/10 08:43:14 loading the index information...
+2023/07/10 08:43:15 	k-mer size: 31
+2023/07/10 08:43:15 	sketch size: 21
+2023/07/10 08:43:15 	window size used in indexing: 150
+2023/07/10 08:43:15 loading the graphs...
+2023/07/10 08:43:15 	number of variation graphs: 1197
+2023/07/10 08:43:15 rebuilding the LSH Ensemble...
+2023/07/10 08:43:20 	containment threshold: 0.99
+2023/07/10 08:43:20 initialising alignment pipeline...
+2023/07/10 08:43:20 	initialising the processes
+2023/07/10 08:43:20 	connecting data streams
+2023/07/10 08:43:20 	number of processes added to the alignment pipeline: 5
+2023/07/10 08:43:20 now streaming reads...
+2023/07/10 08:43:20 read ID in fastq file does not begin with @: >MG01HX07:636:H5J7JCCX2:7:1101:2869:1959 1:N:0:GGACTCCT+AGAGGATA
+2023/07/10 08:43:20 could not read BAM file: "EOF"
+2023/07/10 17:08:39 i am groot (version 1.1.2)
+2023/07/10 17:08:39 starting the report subcommand
+2023/07/10 17:08:39 checking parameters...
+2023/07/10 17:08:39 i am groot (version 1.1.2)
+2023/07/10 17:08:39 	BAM file: using STDIN
+2023/07/10 17:08:39 starting the sketch subcommand
+2023/07/10 17:08:39 	coverage cutoff: 0.80
+2023/07/10 17:08:39 checking parameters...
+2023/07/10 17:08:39 	processors: 1
+2023/07/10 17:08:39 	minimum k-mer coverage: 1
+2023/07/10 17:08:39 	processors: 16
+2023/07/10 17:08:39 	input file: /biorg/data/GulfWar/GWP_11P_S141_L007_R1_001.fastq
+2023/07/10 17:08:39 	input file: /biorg/data/GulfWar/GWP_11P_S141_L007_R2_001.fastq
+2023/07/10 17:08:39 loading the index information...
+2023/07/10 17:08:40 	k-mer size: 31
+2023/07/10 17:08:40 	sketch size: 21
+2023/07/10 17:08:40 	window size used in indexing: 150
+2023/07/10 17:08:40 loading the graphs...
+2023/07/10 17:08:40 	number of variation graphs: 1197
+2023/07/10 17:08:40 rebuilding the LSH Ensemble...
+2023/07/10 17:08:44 	containment threshold: 0.99
+2023/07/10 17:08:44 initialising alignment pipeline...
+2023/07/10 17:08:44 	initialising the processes
+2023/07/10 17:08:44 	connecting data streams
+2023/07/10 17:08:44 	number of processes added to the alignment pipeline: 5
+2023/07/10 17:08:44 now streaming reads...
+2023/07/10 17:08:44 read ID in fastq file does not begin with @: >MG01HX07:636:H5J7JCCX2:7:1101:2869:1959 1:N:0:GGACTCCT+AGAGGATA
+2023/07/10 17:08:44 could not read BAM file: "EOF"
+2023/07/10 17:15:51 i am groot (version 1.1.2)
+2023/07/10 17:15:51 starting the report subcommand
+2023/07/10 17:15:51 checking parameters...
+2023/07/10 17:15:51 	BAM file: using STDIN
+2023/07/10 17:15:51 	coverage cutoff: 0.10
+2023/07/10 17:15:51 	processors: 1
+2023/07/10 17:15:51 i am groot (version 1.1.2)
+2023/07/10 17:15:51 starting the sketch subcommand
+2023/07/10 17:15:51 checking parameters...
+2023/07/10 17:15:51 	minimum k-mer coverage: 1
+2023/07/10 17:15:51 	processors: 16
+2023/07/10 17:15:51 	input file: /biorg/data/GulfWar/GWP_11P_S141_L007_R1_001.fastq
+2023/07/10 17:15:51 	input file: /biorg/data/GulfWar/GWP_11P_S141_L007_R2_001.fastq
+2023/07/10 17:15:51 loading the index information...
+2023/07/10 17:15:52 	k-mer size: 31
+2023/07/10 17:15:52 	sketch size: 21
+2023/07/10 17:15:52 	window size used in indexing: 150
+2023/07/10 17:15:52 loading the graphs...
+2023/07/10 17:15:52 	number of variation graphs: 1197
+2023/07/10 17:15:52 rebuilding the LSH Ensemble...
+2023/07/10 17:15:57 	containment threshold: 0.99
+2023/07/10 17:15:57 initialising alignment pipeline...
+2023/07/10 17:15:57 	initialising the processes
+2023/07/10 17:15:57 	connecting data streams
+2023/07/10 17:15:57 	number of processes added to the alignment pipeline: 5
+2023/07/10 17:15:57 now streaming reads...
+2023/07/10 17:15:57 read ID in fastq file does not begin with @: >MG01HX07:636:H5J7JCCX2:7:1101:2869:1959 1:N:0:GGACTCCT+AGAGGATA
+2023/07/10 17:15:57 could not read BAM file: "EOF"
+2023/08/10 16:08:03 i am groot (version 1.1.2)
+2023/08/10 16:08:03 starting the sketch subcommand
+2023/08/10 16:08:03 checking parameters...
+2023/08/10 16:08:03 i am groot (version 1.1.2)
+2023/08/10 16:08:03 starting the report subcommand
+2023/08/10 16:08:03 checking parameters...
+2023/08/10 16:08:03 	BAM file: using STDIN
+2023/08/10 16:08:03 	coverage cutoff: 0.10
+2023/08/10 16:08:03 	processors: 1
+2023/08/10 16:08:03 	minimum k-mer coverage: 1
+2023/08/10 16:08:03 	processors: 16
+2023/08/10 16:08:03 	input file: /biorg/data/GulfWar/GWP_11P_S141_L007_R1_001.fastq
+2023/08/10 16:08:03 	input file: /biorg/data/GulfWar/GWP_11P_S141_L007_R2_001.fastq
+2023/08/10 16:08:03 loading the index information...
+2023/08/10 16:08:04 	k-mer size: 31
+2023/08/10 16:08:04 	sketch size: 21
+2023/08/10 16:08:04 	window size used in indexing: 150
+2023/08/10 16:08:04 loading the graphs...
+2023/08/10 16:08:04 	number of variation graphs: 2301
+2023/08/10 16:08:04 rebuilding the LSH Ensemble...
+2023/08/10 16:08:12 	containment threshold: 0.99
+2023/08/10 16:08:12 initialising alignment pipeline...
+2023/08/10 16:08:12 	initialising the processes
+2023/08/10 16:08:12 	connecting data streams
+2023/08/10 16:08:12 	number of processes added to the alignment pipeline: 5
+2023/08/10 16:08:12 now streaming reads...
+2023/08/10 16:08:12 read ID in fastq file does not begin with @: >MG01HX07:636:H5J7JCCX2:7:1101:2869:1959 1:N:0:GGACTCCT+AGAGGATA
+2023/08/10 16:08:12 could not read BAM file: "EOF"
+2023/08/10 21:29:04 i am groot (version 1.1.2)
+2023/08/10 21:29:04 starting the sketch subcommand
+2023/08/10 21:29:04 checking parameters...
+2023/08/10 21:29:04 	minimum k-mer coverage: 1
+2023/08/10 21:29:04 	processors: 16
+2023/08/10 21:29:04 	input file: /biorg/data/GulfWar/GWP_11P_S141_L007_R1_001.fastq
+2023/08/10 21:29:04 	input file: /biorg/data/GulfWar/GWP_11P_S141_L007_R2_001.fastq
+2023/08/10 21:29:04 loading the index information...
+2023/08/10 21:29:04 i am groot (version 1.1.2)
+2023/08/10 21:29:04 starting the report subcommand
+2023/08/10 21:29:04 checking parameters...
+2023/08/10 21:29:04 	BAM file: using STDIN
+2023/08/10 21:29:04 	coverage cutoff: 0.10
+2023/08/10 21:29:04 	processors: 1
+2023/08/10 21:29:05 	k-mer size: 31
+2023/08/10 21:29:05 	sketch size: 21
+2023/08/10 21:29:05 	window size used in indexing: 150
+2023/08/10 21:29:05 loading the graphs...
+2023/08/10 21:29:05 	number of variation graphs: 2301
+2023/08/10 21:29:05 rebuilding the LSH Ensemble...
+2023/08/10 21:29:13 	containment threshold: 0.99
+2023/08/10 21:29:13 initialising alignment pipeline...
+2023/08/10 21:29:13 	initialising the processes
+2023/08/10 21:29:13 	connecting data streams
+2023/08/10 21:29:13 	number of processes added to the alignment pipeline: 5
+2023/08/10 21:29:13 now streaming reads...
+2023/08/10 21:29:13 read ID in fastq file does not begin with @: >MG01HX07:636:H5J7JCCX2:7:1101:2869:1959 1:N:0:GGACTCCT+AGAGGATA
+2023/08/10 21:29:14 could not read BAM file: "EOF"
+2023/08/10 22:32:44 i am groot (version 1.1.2)
+2023/08/10 22:32:44 starting the report subcommand
+2023/08/10 22:32:44 checking parameters...
+2023/08/10 22:32:44 i am groot (version 1.1.2)
+2023/08/10 22:32:44 	BAM file: using STDIN
+2023/08/10 22:32:44 starting the sketch subcommand
+2023/08/10 22:32:44 	coverage cutoff: 0.10
+2023/08/10 22:32:44 checking parameters...
+2023/08/10 22:32:44 	processors: 1
+2023/08/10 22:32:44 	minimum k-mer coverage: 1
+2023/08/10 22:32:44 	processors: 16
+2023/08/10 22:32:44 	input file: /biorg/data/GulfWar/GWP_11P_S141_L007_R1_001.fastq
+2023/08/10 22:32:44 	input file: /biorg/data/GulfWar/GWP_11P_S141_L007_R2_001.fastq
+2023/08/10 22:32:44 loading the index information...
+2023/08/10 22:32:45 	k-mer size: 31
+2023/08/10 22:32:45 	sketch size: 21
+2023/08/10 22:32:45 	window size used in indexing: 150
+2023/08/10 22:32:45 loading the graphs...
+2023/08/10 22:32:45 	number of variation graphs: 2301
+2023/08/10 22:32:45 rebuilding the LSH Ensemble...
+2023/08/10 22:32:54 	containment threshold: 0.99
+2023/08/10 22:32:54 initialising alignment pipeline...
+2023/08/10 22:32:54 	initialising the processes
+2023/08/10 22:32:54 	connecting data streams
+2023/08/10 22:32:54 	number of processes added to the alignment pipeline: 5
+2023/08/10 22:32:54 now streaming reads...
+2023/08/10 22:32:54 read ID in fastq file does not begin with @: >MG01HX07:636:H5J7JCCX2:7:1101:2869:1959 1:N:0:GGACTCCT+AGAGGATA
+2023/08/10 22:32:54 could not read BAM file: "EOF"
